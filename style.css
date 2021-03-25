@@ -2,9 +2,40 @@
   padding-top: 7rem;
   background-color: #e3d8f4;
 }
-#projects {
+#skill,
+#connect {
   background-color: #e3d8f4;
 }
+
 section {
   padding-top: 6rem;
+}
+.bg-purple {
+  background-color: #462578;
+}
+/* new */
+
+.text-c-purple {
+  color: #320447;
+}
+.bg-c-purple {
+  background: #462578;
+}
+.text-purple {
+  color: #60088a;
+}
+
+.proj-progress-card .progress {
+  height: 6px;
+  overflow: visible;
+  margin-bottom: 10px;
+}
+
+.proj-progress-card .progress .progress-bar {
+  position: relative;
+}
+
+.progress .progress-bar {
+  height: 100%;
+  color: inherit;
 }
